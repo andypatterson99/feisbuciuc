@@ -20,6 +20,9 @@ Current feisbuciuc version functionalities :
 Future patches:
 * Form validators (BE/FE) for register/login, post create/edit and edit user form
 * Comment/Like on posts.
+* Improving the UI
+* Code Refactor / Better Optimizations
+* New functionalities
 
 # Project Preview
 
