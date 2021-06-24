@@ -25,3 +25,7 @@ Future patches:
 ## -> Edit Post page
 ![EditPost](https://user-images.githubusercontent.com/67120354/123230418-e766c680-d4df-11eb-909c-460be2eb1074.png)
 
+
+#### I want to show my gratitude for [Lateral Inc.](https://www.lateral-inc.com/) Team in Oradea, RO by expressing my apreciation for their massive support towards newcomers in the field.
+
+[GitHub Pages](https://pages.github.com/)
