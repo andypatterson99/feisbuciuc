@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img width="200" src="https://user-images.githubusercontent.com/67120354/123320794-e6af4e00-d53a-11eb-975f-0398e251415a.png" alt="Material Bread logo">
+</p>
+
+
+
 ### MERN Stack Application.
 So basicaly is made using the following technologies : 
 * MongoDB
