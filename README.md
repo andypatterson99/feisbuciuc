@@ -1,4 +1,4 @@
-This is a MERN project.
+### MERN Stack Application.
 So basicaly is made using the following technologies : 
 * MongoDB
 * Express.js
